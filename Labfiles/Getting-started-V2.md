@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this lab, you will access Hyper-V Manager to start and connect to a Red Hat VM hosting an OSS database, preparing it for migration to Azure using Azure Migrate. You will register your Hyper-V host (LabVM) with the Migration and Modernization service, which leverages Azure Site Recovery as the migration engine. As part of this process, you will deploy the Azure Site Recovery Provider on your Hyper-V host and configure replication of the on-premises VM to Azure Migrate Server Migration. You will then modify the replicated VM settings to assign a static private IP matching the on-premises configuration before executing the migration of the Red Hat VM to Azure.
+In this lab, you will access Hyper-V Manager to start and connect to a Red Hat VM hosting an OSS database, preparing it for migration to Azure using Azure Migrate. You will register your Hyper-V host (LabVM) with the Migration and Modernization service, which leverages Azure Site Recovery as the migration engine. As part of this process, you will deploy the Azure Site Recovery Provider on your Hyper-V host and configure replication of the on-premises VM to Azure Migrate Server Migration. You will then modify the replicated VM settings to assign a static private IP matching the on-premises configuration before executing the migration of the Red Hat VM to Azure. yogesh
 
 ## Objectives
 
